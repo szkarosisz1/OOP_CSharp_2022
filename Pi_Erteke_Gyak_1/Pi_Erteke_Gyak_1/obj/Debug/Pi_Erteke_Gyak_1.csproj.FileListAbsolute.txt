@@ -1,0 +1,22 @@
+C:\Users\TEMP.IIT.001\Documents\Visual Studio 2015\Projects\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.exe.config
+C:\Users\TEMP.IIT.001\Documents\Visual Studio 2015\Projects\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.exe
+C:\Users\TEMP.IIT.001\Documents\Visual Studio 2015\Projects\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.pdb
+C:\Users\TEMP.IIT.001\Documents\Visual Studio 2015\Projects\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.IIT.001\Documents\Visual Studio 2015\Projects\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.exe
+C:\Users\TEMP.IIT.001\Documents\Visual Studio 2015\Projects\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.pdb
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.exe.config
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.exe
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.pdb
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csproj.AssemblyReference.cache
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csproj.SuggestedBindingRedirects.cache
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csproj.CoreCompileInputs.cache
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.exe
+E:\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.pdb
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.exe.config
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.exe
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\bin\Debug\Pi_Erteke_Gyak_1.pdb
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csproj.AssemblyReference.cache
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csproj.SuggestedBindingRedirects.cache
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.csproj.CoreCompileInputs.cache
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.exe
+D:\ME\2.félév\OOP\C#_Gyak\Pi_Erteke_Gyak_1\Pi_Erteke_Gyak_1\obj\Debug\Pi_Erteke_Gyak_1.pdb

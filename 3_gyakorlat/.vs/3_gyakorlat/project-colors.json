@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea285aaa-8cd1-485a-80e9-ebef8cc1b3db": {
+      "ProjectGuid": "ea285aaa-8cd1-485a-80e9-ebef8cc1b3db",
+      "DisplayName": "3_gyakorlat",
+      "ColorIndex": 0
+    },
+    "42c57095-5dbe-476f-b633-202b15f63f4e": {
+      "ProjectGuid": "42c57095-5dbe-476f-b633-202b15f63f4e",
+      "DisplayName": "3_gyakorlat_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

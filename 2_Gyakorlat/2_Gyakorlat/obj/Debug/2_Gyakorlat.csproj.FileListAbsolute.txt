@@ -1,0 +1,6 @@
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat\bin\Debug\2_Gyakorlat.exe.config
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat\bin\Debug\2_Gyakorlat.exe
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat\bin\Debug\2_Gyakorlat.pdb
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat\obj\Debug\2_Gyakorlat.csprojResolveAssemblyReference.cache
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat\obj\Debug\2_Gyakorlat.exe
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat\obj\Debug\2_Gyakorlat.pdb

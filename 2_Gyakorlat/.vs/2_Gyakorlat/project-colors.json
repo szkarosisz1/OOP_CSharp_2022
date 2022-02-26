@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c6108ea-cd80-4b33-9531-1199e7872382": {
+      "ProjectGuid": "5c6108ea-cd80-4b33-9531-1199e7872382",
+      "DisplayName": "2_Gyakorlat_EllenBeolvas",
+      "ColorIndex": 0
+    },
+    "9206782c-35d2-4a3a-8580-17b4505e7603": {
+      "ProjectGuid": "9206782c-35d2-4a3a-8580-17b4505e7603",
+      "DisplayName": "2_Gyakorlat_Tombok",
+      "ColorIndex": 1
+    },
+    "fd670029-1842-44b8-abf6-e860b6917b3e": {
+      "ProjectGuid": "fd670029-1842-44b8-abf6-e860b6917b3e",
+      "DisplayName": "2_Gyakorlat",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

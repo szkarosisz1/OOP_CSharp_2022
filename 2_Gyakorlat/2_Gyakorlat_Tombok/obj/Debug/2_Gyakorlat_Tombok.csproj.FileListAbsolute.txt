@@ -1,0 +1,13 @@
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_Tombok\bin\Debug\2_Gyakorlat_Tombok.exe.config
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_Tombok\bin\Debug\2_Gyakorlat_Tombok.exe
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_Tombok\bin\Debug\2_Gyakorlat_Tombok.pdb
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.exe
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.pdb
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\bin\Debug\2_Gyakorlat_Tombok.exe.config
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\bin\Debug\2_Gyakorlat_Tombok.exe
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\bin\Debug\2_Gyakorlat_Tombok.pdb
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.csproj.AssemblyReference.cache
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.csproj.SuggestedBindingRedirects.cache
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.csproj.CoreCompileInputs.cache
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.exe
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_Tombok\obj\Debug\2_Gyakorlat_Tombok.pdb

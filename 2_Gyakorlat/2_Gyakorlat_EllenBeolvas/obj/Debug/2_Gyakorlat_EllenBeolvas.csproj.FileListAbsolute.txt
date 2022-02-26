@@ -1,0 +1,13 @@
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\bin\Debug\2_Gyakorlat_EllenBeolvas.exe.config
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\bin\Debug\2_Gyakorlat_EllenBeolvas.exe
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\bin\Debug\2_Gyakorlat_EllenBeolvas.pdb
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.exe
+c:\users\temp.iit.001\documents\visual studio 2015\Projects\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.pdb
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\bin\Debug\2_Gyakorlat_EllenBeolvas.exe.config
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\bin\Debug\2_Gyakorlat_EllenBeolvas.exe
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\bin\Debug\2_Gyakorlat_EllenBeolvas.pdb
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.csproj.AssemblyReference.cache
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.csproj.SuggestedBindingRedirects.cache
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.csproj.CoreCompileInputs.cache
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.exe
+D:\ME\2.félév\OOP\C#_Gyak\2_Gyakorlat\2_Gyakorlat_EllenBeolvas\obj\Debug\2_Gyakorlat_EllenBeolvas.pdb
