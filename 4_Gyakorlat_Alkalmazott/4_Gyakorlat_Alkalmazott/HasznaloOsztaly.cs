@@ -21,11 +21,11 @@ namespace _4_Gyakorlat_Alkalmazott
             /*alkalmazott._nev = "Kovacs Bela";
             alkalmazott._fizetes = 100000;*/
             alkalmazott.SetNev("Kovacs Bela");
-            alkalmazott.SetFizetes(100000);
+            alkalmazott.SetFizetes(234000);
 
             Console.WriteLine($"Név: {alkalmazott.GetNev()}");
             Console.WriteLine($"Fizetés: {alkalmazott.GetFizetes()}");
-            Console.WriteLine(alkalmazott.FizetesHataronBelulVan(50000,200000));
+            Console.WriteLine(alkalmazott.FizetesHataronBelulVan(100000,250000));
 
             alkalmazott.FizetestNovel(50000);
 
@@ -52,7 +52,7 @@ namespace _4_Gyakorlat_Alkalmazott
                 }
             }
 
-            Console.WriteLine(alkalmazottak[maxFizetesuAlkIndexe]);
+            Console.WriteLine($"A legnagyobb fizetés: {alkalmazottak[maxFizetesuAlkIndexe].AlkalmazottKiir()}");
         }
 
     }
