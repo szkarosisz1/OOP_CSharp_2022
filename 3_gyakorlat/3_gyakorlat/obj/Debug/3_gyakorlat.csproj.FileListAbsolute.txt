@@ -6,3 +6,11 @@ D:\ME\2.félév\OOP\C#_Gyak\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.csproj
 D:\ME\2.félév\OOP\C#_Gyak\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.csproj.CoreCompileInputs.cache
 D:\ME\2.félév\OOP\C#_Gyak\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.exe
 D:\ME\2.félév\OOP\C#_Gyak\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.pdb
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\bin\Debug\3_gyakorlat.exe.config
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\bin\Debug\3_gyakorlat.exe
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\bin\Debug\3_gyakorlat.pdb
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.csproj.AssemblyReference.cache
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.csproj.SuggestedBindingRedirects.cache
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.csproj.CoreCompileInputs.cache
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.exe
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\3_gyakorlat\3_gyakorlat\obj\Debug\3_gyakorlat.pdb

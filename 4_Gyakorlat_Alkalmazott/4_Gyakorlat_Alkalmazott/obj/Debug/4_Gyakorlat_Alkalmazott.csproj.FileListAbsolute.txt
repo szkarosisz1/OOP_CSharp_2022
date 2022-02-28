@@ -1,0 +1,8 @@
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\bin\Debug\4_Gyakorlat_Alkalmazott.exe.config
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\bin\Debug\4_Gyakorlat_Alkalmazott.exe
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\bin\Debug\4_Gyakorlat_Alkalmazott.pdb
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\obj\Debug\4_Gyakorlat_Alkalmazott.csproj.AssemblyReference.cache
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\obj\Debug\4_Gyakorlat_Alkalmazott.csproj.SuggestedBindingRedirects.cache
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\obj\Debug\4_Gyakorlat_Alkalmazott.csproj.CoreCompileInputs.cache
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\obj\Debug\4_Gyakorlat_Alkalmazott.exe
+D:\ME\2.félév\OOP\CSharp_Gyak_2022\4_Gyakorlat_Alkalmazott\4_Gyakorlat_Alkalmazott\obj\Debug\4_Gyakorlat_Alkalmazott.pdb

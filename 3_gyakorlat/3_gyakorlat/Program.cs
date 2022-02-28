@@ -39,7 +39,7 @@ namespace _3_gyakorlat
                 alapmuveletek(elso_operandus, masodik_operandus, muvelet);
 
                 Console.WriteLine("Szeretne még új műveletet megadni!");
-                Console.WriteLine("Válasz (igen/nem): ");
+                Console.WriteLine("Válasz (Igen/Nem): ");
                 valasz = Console.ReadLine();
 
             } while (valasz.Equals("Igen"));
